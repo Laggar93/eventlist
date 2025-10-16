@@ -1,0 +1,10 @@
+config.py
+venv/*
+__pycache__/
+.DS_Store
+wsgi.py
+media/*
+.idea/
+db.sqlite3
+credentials.json
+token.json
